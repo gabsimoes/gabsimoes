@@ -1,5 +1,6 @@
 ### 
 Olá! 👋🏻 Me chamo Gabrielle Simões, mas pode me chamar de Gabi 😊
+<br>
 Hi there! 👋🏻 My name is Gabrielle Simões, but you can call me Gabi 😊
 
 - 🔭 I’m currently working on hardware/help desk;
