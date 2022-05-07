@@ -22,7 +22,7 @@ Hi there! 👋🏻 My name is Gabrielle Simões, but you can call me Gabi 😊
   <img align="center" alt="Gabi-Tsql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Gabi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Gabi-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="right" alt="Gabi-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202205/338224_bGW3yn5u.png">
+  <img align="right" alt="Gabi-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/972513716828532758/972513891546439730/gabsimoes_github.gif">
 </div>
   
   ##
